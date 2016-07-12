@@ -54,7 +54,7 @@ body > .ember-view:not(.liquid-target-container) {
     flex-direction: column;
     min-width: 0; /* TODO: This is a bullshit Firefox hack */
     border-right: #dfe1e3 1px solid;
-    background: #5e0c64;
+    background: #2f2b2f;
     transform: translateX(0);
 }
 

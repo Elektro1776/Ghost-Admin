@@ -27,6 +27,7 @@
     "selectize": "~0.12.1",
     "showdown-ghost": "0.3.6",
     "validator-js": "3.39.0",
-    "highcharts": "^4.2.5"
+    "highcharts": "^4.2.5",
+    "bootstrap": "^3.3.6"
   }
 }

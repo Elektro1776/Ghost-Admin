@@ -74,6 +74,8 @@ module.exports = function (defaults) {
     app.import('bower_components/password-generator/lib/password-generator.js');
     app.import('bower_components/blueimp-md5/js/md5.js');
     app.import('bower_components/highcharts/highcharts.js');
+    app.import('bower_components/bootstrap/dist/css/bootstrap.min.css');
+
 
 
     if (app.env === 'test') {
