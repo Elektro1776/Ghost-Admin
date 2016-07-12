@@ -54,7 +54,7 @@ GhostRouter.map(function () {
       this.route('new');
   });
   this.route('settings.labs', {path: '/settings/labs'});
-  this.route('settings.analytics',{path:'/settings/analytics'});
+  this.route('settings.high-charts',{path:'/settings/high-charts'});
   this.route('settings.code-injection', {path: '/settings/code-injection'});
   this.route('settings.navigation', {path: '/settings/navigation'});
   this.route('settings.apps', {path: '/settings/apps'}, function () {
@@ -67,7 +67,7 @@ GhostRouter.map(function () {
   });
 
   this.route('error404', {path: '/*path'});
-  
+
 });
 
 export default GhostRouter;
