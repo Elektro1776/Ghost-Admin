@@ -52,3 +52,8 @@ testem.log
 # built by grunt
 public/assets/img/contributors/
 app/templates/-contributors.hbs
+app/models/high-charts.js
+app/routes/settings/high-charts.js
+tests/unit/models/high-charts-test.js
+tests/unit/routes/about-test.js
+tests/unit/routes/high-charts-test.js
